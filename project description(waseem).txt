@@ -1,0 +1,3 @@
+Project description:
+               The project whch we have choosen is "Online Banking system". In this project the system is designed in such a way that the users can send/receive money using online.This also provides the customers with many advanced features like form downloads,loan features.The user's don't need to wait in the queue for a long time or fill forms for the transaction.
+             This system is secure and has a different Login system for the user and the admin. The user will have certain features. Like all the details about the transaction etc.
